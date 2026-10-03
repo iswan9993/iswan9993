@@ -6,6 +6,10 @@
 
 <img src="image/me.png" height="500">
 
+##### Connect with me
+
+![https://www.instagram.com/bahiyansyah](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/iswan-609503221/?isSelfProfile=true](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://id.quora.com/profile/Iswan-2](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white) ![https://www.tiktok.com/@ultraman_cabang_berau](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![https://www.facebook.com/@Yswhan Bahiyan Syah](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![https://www.github.com/iswan9993](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 </td>
 <td style="vertical-align:top; border: none;" >
 
@@ -50,10 +54,6 @@
 <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-##### Connect with me
-
-![https://www.instagram.com/bahiyansyah](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/iswan-609503221/?isSelfProfile=true](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://id.quora.com/profile/Iswan-2](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white) ![https://www.tiktok.com/@ultraman_cabang_berau](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![https://www.facebook.com/@Yswhan Bahiyan Syah](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![https://www.github.com/iswan9993](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 </td>
 
