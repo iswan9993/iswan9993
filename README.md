@@ -54,6 +54,29 @@
 <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO-%23111F68.svg?style=for-the-badge&logo=yolo&logoColor=white" />
+<img src="https://img.shields.io/badge/firebase-%23DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/drawio-%23F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-%23035a7d.svg?style=for-the-badge&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/Stackoverflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+<img src="https://img.shields.io/badge/cuda-%23000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green" />
+<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=black" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<img src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" />
+<img src="https://img.shields.io/badge/NetBeans_IDE-%231B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" />
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/onnx-%23ffffff.svg?style=for-the-badge&logo=onnx&logoColor=black" />
+<img src="https://img.shields.io/badge/roboflow-%23EE4C2C.svg?style=for-the-badge&logo=roboflow&logoColor=white" />
+<img src="https://img.shields.io/badge/ultralytics-%23111F68.svg?style=for-the-badge&logo=ultralytics&logoColor=white" />
+<img src="" />
+<img src="" />
+<img src="" />
 
 </td>
 
@@ -63,7 +86,7 @@
 
 ##### My Github Stats
 
-[![iswan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iswan9993&show_icons=true&theme=radical)]<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iswan9993&theme=radical" />
+![iswan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iswan9993&show_icons=true&theme=radical)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iswan9993&theme=radical" />
 
 ##### Play Games with Me
 
