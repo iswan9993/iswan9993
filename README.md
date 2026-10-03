@@ -74,9 +74,6 @@
 <img src="https://img.shields.io/badge/onnx-%23ffffff.svg?style=for-the-badge&logo=onnx&logoColor=black" />
 <img src="https://img.shields.io/badge/roboflow-%23EE4C2C.svg?style=for-the-badge&logo=roboflow&logoColor=white" />
 <img src="https://img.shields.io/badge/ultralytics-%23111F68.svg?style=for-the-badge&logo=ultralytics&logoColor=white" />
-<img src="" />
-<img src="" />
-<img src="" />
 
 </td>
 
