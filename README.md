@@ -64,3 +64,17 @@
 ##### My Github Stats
 
 [![iswan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iswan9993&show_icons=true&theme=radical)]
+
+##### Play Games with Me
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iswan9993/iswan9993/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iswan9993/iswan9993/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iswan9993/iswan9993/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/iswan9993/iswan9993/snake-output/snake.svg" alt="Snake animation" />
+
+###
