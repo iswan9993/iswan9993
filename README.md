@@ -2,7 +2,7 @@
 
 <table border="0">
 <tr style="border: none;">
-<td width="350" style="border: none;">
+<td width="350" style="border: none; vertical-align:top">
 
 <img src="image/me.png" height="500">
 
