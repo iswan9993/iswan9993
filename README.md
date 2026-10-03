@@ -83,7 +83,7 @@
 
 ##### My Github Stats
 
-![iswan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iswan9993&show_icons=true&theme=radical)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iswan9993&theme=radical" />
+![iswan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iswan9993&show_icons=true&theme=radical)  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iswan9993&theme=radical" />
 
 ##### Play Games with Me
 
