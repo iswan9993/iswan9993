@@ -1,4 +1,4 @@
-## hello worlddddd i'm iswan 👋
+## Hey,<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" />
 
 <!--
 **iswan9993/iswan9993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
